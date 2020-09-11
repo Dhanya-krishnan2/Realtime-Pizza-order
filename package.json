@@ -32,7 +32,7 @@
     "yarn": "^1.22.5"
   },
   "devDependencies": {
-    "laravel-mix": "^5.0.4",
+    "laravel-mix": "^5.0.5",
     "nodemon": "^2.0.4",
     "resolve-url-loader": "^3.1.0",
     "sass": "^1.26.9",
